@@ -1,22 +1,26 @@
-Welcome to Lumache's documentation!
+888B - 888b.market - là nhà cái casino online tiên phong gia nhập thị trường châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`888B <https://888b.market/>`_ là nhà cái cá cược luôn giữ được nét độc đáo, thú vị, mang đến hàng loạt sản phẩm giải trí tuyệt vời như slot, casino, game bài,... Được cấp phép hoạt động tại Philippines -  thủ phủ cá cược lớn hàng đầu hiện nay, nhà cái khẳng định toàn bộ hoạt động đặt cược tại đây đều tuân theo quy định của pháp luật. 888B cam kết mang đến trải nghiệm giải trí an toàn, lành mạnh và công bằng.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin nhà cái:
 
-.. note::
+Thương hiệu: 888B
 
-   This project is under active development.
+Địa chỉ: 29 C5/18, Bình Hưng, Bình Chánh, Hồ Chí Minh, Việt Nam
 
-Contents
---------
+Phone: 0978435541
 
-.. toctree::
+Email: info@888b.market
 
-   usage
-   api
+Hashtag: #888b #888blink #nhacai888b #888bmarket #888bcasino
+
+Website: https://888b.market/
+
+https://888b.market/dang-ky-888b/
+
+https://888b.market/nap-tien-888b/
+
+https://888b.market/rut-tien-888b/
+
+https://888b.market/tai-app-888b/
